@@ -21,9 +21,9 @@ Standardmäßig öffnest du das Scoreboard, indem du **F10** gedrückt hältst. 
 ## 🔗 Links & Support
 Dieses Script ist zu 100% kostenlos! Wenn du unsere Arbeit unterstützen möchtest oder auf der Suche nach komplexeren Premium-Scripten bist, schau bei uns vorbei:
 
-* 🛒 **Tebex Shop:** [HIER DEINEN TEBEX LINK EINTRAGEN]
-* 💬 **Discord:** [HIER DEINEN DISCORD LINK EINTRAGEN]
-* 📸 **Social Media:** [HIER DEINEN LINK EINTRAGEN]
+* 🛒 **Tebex Shop:** [https://aurora-scripts.tebex.io/]
+* 💬 **Discord:** [https://discord.gg/aurora-scripts]
+
 
 ---
 *Developed with ❤️ by Aurora Scripts*
