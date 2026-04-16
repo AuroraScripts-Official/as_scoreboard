@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <title>Aurora Scoreboard</title>
+</head>
+<body>
+    
+    <div id="scoreboard-wrapper" class="board-container">
+        
+        <div class="header">
+            <img src="logo.png" alt="Server Logo" class="server-logo" onerror="this.style.display='none'">
+            <h1>AURORA ROLEPLAY</h1>
+        </div>
+
+        <div class="my-info">
+            <div class="info-box">
+                <span>DEINE ID</span>
+                <b id="my-id" class="blue">0</b>
+            </div>
+            <div class="info-box">
+                <span>DEIN JOB</span>
+                <b id="my-job">Zivilist</b>
+            </div>
+        </div>
+
+        <div class="divider"></div>
+
+        <div class="server-stats">
+            <div class="stat-item">
+                <span class="icon">👥</span>
+                <div class="text-col">
+                    <span class="label">BÜRGER ONLINE</span>
+                    <span class="value" id="total-players">0 / 1024</span>
+                </div>
+            </div>
+            <div class="stat-item">
+                <span class="icon blue">🚓</span>
+                <div class="text-col">
+                    <span class="label">POLIZEI</span>
+                    <span class="value" id="cops">0</span>
+                </div>
+            </div>
+            <div class="stat-item">
+                <span class="icon red">🚑</span>
+                <div class="text-col">
+                    <span class="label">RETTUNGSDIENST</span>
+                    <span class="value" id="medics">0</span>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
